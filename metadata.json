@@ -1,0 +1,6 @@
+{
+  "name": "Mahima Tour & Travels",
+  "description": "Premier spiritual and pilgrimage tour operator for Chardham Yatra, 12 Jyotirlinga specials, Kashi-Ayodhya sacred circuits, and customized devotional yatras.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
